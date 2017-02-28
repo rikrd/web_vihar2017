@@ -37,3 +37,19 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+.site-title, .site-title:visited {
+  color: #33ccff;
+  letter-spacing: 1px;
+  line-height: 46px;
+}
+
+.page-link, .page-link:visited {
+  color: white;
+  line-height: 36px;
+}
+
+.site-header {
+//  background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+  background: linear-gradient(141deg, #232526 0%, #414345 100%);
+}
