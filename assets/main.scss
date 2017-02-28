@@ -44,6 +44,16 @@ $on-laptop:        800px;
   line-height: 46px;
 }
 
+@media screen and (max-width: 600px) {
+  .site-nav {
+    background-color: #232526;
+  }
+
+  .site-nav .menu-icon > svg path {
+    fill: white;
+  }
+}
+
 .page-link, .page-link:visited {
   color: white;
   line-height: 36px;
