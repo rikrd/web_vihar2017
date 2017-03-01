@@ -63,3 +63,20 @@ $on-laptop:        800px;
 //  background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
   background: linear-gradient(141deg, #232526 0%, #414345 100%);
 }
+
+.programme-table {
+  width: 60%;
+  border-collapse: collapse;
+}
+
+.programme-table td {
+  border: 4px;
+}
+
+.programme-table td:first-child {
+  width: 4em;
+}
+
+.programme-table tr:nth-child(even) {
+  background-color: #f2f2f2
+}
