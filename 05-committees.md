@@ -2,18 +2,19 @@
 layout: page
 title: Committees
 permalink: /committees/
----
+--- 
  
 #### Organising Committee   
 
-Robert Eklund   ||       Linköping University
-Angela Dassow   ||       Carthage College
-Ricard Marxer   ||       University of Sheffield
-Roger K. Moore  ||       University of Sheffield
-Bhiksha Raj     ||       Carnegie Mellon University
-Rita Singh      ||       Carnegie Mellon University
-Serge Thill     ||       University of Skövde
-Benjamin Weiss  ||       Technical University of Berlin
+**General Chair**       || [Roger K. Moore](mailto:r.k.moore@sheffield.ac.uk)  ||       University of Sheffield
+**Technical Chairs**    || [Angela Dassow](mailto:adassow@carthage.edu)   ||       Carthage College
+                        || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)   ||       University of Sheffield
+**Financial Chair**     || [Benjamin Weiss](mailto:benjamin.weiss@tu-berlin.de)  ||       Technical University of Berlin
+**Local Chair**         || [Serge Thill](mailto:serge.thill@his.se)     ||       University of Skövde
+**Keynote(s) Chair**    || [Roger K. Moore](mailto:r.k.moore@sheffield.ac.uk)  ||       University of Sheffield
+**Publications Chair**  || [Robert Eklund](mailto:robert@roberteklund.info)   ||       Linköping University
+**Publicity Chair**     || [Rita Singh](mailto:rsingh@cs.cmu.edu)      ||       Carnegie Mellon University
+**Website**             || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)   ||       University of Sheffield
 
 <br/>  
   
