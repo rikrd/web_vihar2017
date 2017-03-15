@@ -6,15 +6,17 @@ permalink: /committees/
  
 #### Organising Committee   
 
-**General Chair**       || [Roger K. Moore](mailto:r.k.moore@sheffield.ac.uk)  ||       University of Sheffield
-**Technical Chairs**    || [Angela Dassow](mailto:adassow@carthage.edu)   ||       Carthage College
-                        || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)   ||       University of Sheffield
+**General Chair**       || [Roger K. Moore](mailto:r.k.moore@sheffield.ac.uk)    ||       University of Sheffield
+**Technical Chairs**    || [Angela Dassow](mailto:adassow@carthage.edu)          ||       Carthage College
+                        || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)      ||       University of Sheffield
 **Financial Chair**     || [Benjamin Weiss](mailto:benjamin.weiss@tu-berlin.de)  ||       Technical University of Berlin
-**Local Chair**         || [Serge Thill](mailto:serge.thill@his.se)     ||       University of Skövde
-**Keynote(s) Chair**    || [Roger K. Moore](mailto:r.k.moore@sheffield.ac.uk)  ||       University of Sheffield
-**Publications Chair**  || [Robert Eklund](mailto:robert@roberteklund.info)   ||       Linköping University
-**Publicity Chair**     || [Rita Singh](mailto:rsingh@cs.cmu.edu)      ||       Carnegie Mellon University
-**Website**             || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)   ||       University of Sheffield
+**Local Chair**         || [Serge Thill](mailto:serge.thill@his.se)              ||       University of Skövde
+**Keynote(s) Chair**    || [Roger K. Moore](mailto:r.k.moore@sheffield.ac.uk)    ||       University of Sheffield
+**Publications Chair**  || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)      ||       Linköping University
+**Publicity Chair**     || [Rita Singh](mailto:rsingh@cs.cmu.edu)                ||       Carnegie Mellon University
+**Website**             || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)      ||       University of Sheffield
+**Ad-hoc**              || [Robert Eklund](mailto:robert@roberteklund.info)      ||       Linköping University
+                        || [Bhiksha Raj](mailto:bhiksha@cs.cmu.edu)              ||       Carnegie Mellon University
 
 <br/>  
   

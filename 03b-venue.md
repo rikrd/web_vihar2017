@@ -6,7 +6,7 @@ permalink: /venue/
  
 The workshop will take place at:
  - University of Skövde, Sweden
- - **more details will come soon**
+ - **more details will come soon...**
 
 <iframe
   width="600"
