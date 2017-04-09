@@ -21,3 +21,5 @@ Suggested workshop topics may include, but are not limited to the following area
 # Submission
  
 Paper submissions should conform to the format as detailed in the [INTERSPEECH 2017 Author’s Kit](http://www.interspeech2017.org/wp-content/uploads/2016/11/IS2017_paper_kit.zip).  
+
+Submit your paper at the **[EasyChair submission page](https://easychair.org/conferences/?conf=vihar2017)**
