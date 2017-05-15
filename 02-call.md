@@ -4,6 +4,10 @@ title: Call for papers
 permalink: /call/
 ---
 
+**Abstracts are now being accepted and the submission deadline is June 2, 2017.**
+
+**Submission instructions can be found at [EasyChair submission page](https://easychair.org/conferences/?conf=vihar2017)**
+
 We invite original submissions of 5-page INTERSPEECH-style papers or 2-page extended abstracts in all areas of vocal interactivity.
 
 Suggested workshop topics may include, but are not limited to the following areas:

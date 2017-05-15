@@ -14,6 +14,10 @@ University of Skövde, Sweden**
   
 <img style="float: right; margin: 1em; overflow: auto;" src="{{ site.baseurl }}/assets/vihar_schema.png">
 
+**Abstracts are now being accepted and the submission deadline is June 2, 2017.**
+
+**Submission instructions can be found at [EasyChair submission page](https://easychair.org/conferences/?conf=vihar2017)**
+
 **VIHAR-2017** is the first international workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots.**  Taking place at the University of Skövde in Sweden on 25-26 August 2017, **VIHAR-2017** aims to bring together researchers studying vocalisation and speech-based interaction in-and-between humans, animals and robots from a variety of different fields.  **VIHAR-2017** will provide an opportunity to share and discuss theoretical insights, best practices, tools and methodologies, and to identify common principles underpinning vocal behaviour in a multi-disciplinary environment.
 
 
