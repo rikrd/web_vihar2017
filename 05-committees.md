@@ -12,7 +12,7 @@ permalink: /committees/
 **Financial Chair**     || [Benjamin Weiss](mailto:benjamin.weiss@tu-berlin.de)  ||       Technical University of Berlin
 **Local Chair**         || [Serge Thill](mailto:serge.thill@his.se)              ||       University of Skövde
 **Keynote(s) Chair**    || [Roger K. Moore](mailto:r.k.moore@sheffield.ac.uk)    ||       University of Sheffield
-**Publications Chair**  || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)      ||       Linköping University
+**Publications Chair**  || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)      ||       University of Sheffield
 **Publicity Chair**     || [Rita Singh](mailto:rsingh@cs.cmu.edu)                ||       Carnegie Mellon University
 **Website**             || [Ricard Marxer](mailto:r.marxer@sheffield.ac.uk)      ||       University of Sheffield
 **Ad-hoc**              || [Robert Eklund](mailto:robert@roberteklund.info)      ||       Linköping University
