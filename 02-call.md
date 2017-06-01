@@ -4,7 +4,7 @@ title: Call for papers
 permalink: /call/
 ---
 
-**Abstracts are now being accepted and the submission deadline is June 2, 2017.**
+**Abstracts are now being accepted and the submission deadline is ~~June 2, 2017~~ June 9, 2017.**
 
 **Submission instructions can be found at [EasyChair submission page](https://easychair.org/conferences/?conf=vihar2017)**
 
