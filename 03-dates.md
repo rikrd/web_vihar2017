@@ -4,7 +4,7 @@ title: Dates
 permalink: /dates/
 ---
 
-**Abstracts are now being accepted and the submission deadline is June 2, 2017.**
+**Abstracts are now being accepted and the submission deadline is ~~2 June 2017~~ 9 June 2017**
 
 **Submission instructions can be found at [EasyChair submission page](https://easychair.org/conferences/?conf=vihar2017)**
 
