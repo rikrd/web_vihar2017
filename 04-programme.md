@@ -21,7 +21,7 @@ The tentative programme for the two-day workshop is as follows:
 
 <br/>
 
-#### Saturday 25th August 2017
+#### Saturday 26th August 2017
 
 | 09:00| Invited Talk #2
 | 09:30| 6x 15min talks
