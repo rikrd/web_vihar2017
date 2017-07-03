@@ -4,9 +4,9 @@ title: Registration
 permalink: /registration/
 ---
 
-Registration is now open and will **close the 28 of July 2017**.
+Early registration is now open and will **close the 28 of July 2017**.
 
-Registration fees are **60€ for regular** registrations and **30€ for students**.
+Early registration fees are **60€ for regular** registrations and **30€ for students**.
 
 Depending on the payement method there may be additional costs (e.g. Eventzilla charges a fixed fee of 1.50€)
 
