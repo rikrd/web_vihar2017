@@ -4,14 +4,22 @@ title: Keynotes
 permalink: /keynotes/
 ---
 
-### Irene Pepperberg (to be confirmed)
+### Irene Pepperberg
 
 More details soon...
 
-### Arik Kershenbaum (to be confirmed)
+### Arik Kershenbaum
 
 More details soon...
 
 ### Véronique Aubergé
+
+More details soon...
+
+### Arik Kershenbaum
+
+More details soon...
+
+### Gabriel Skantze
 
 More details soon...
