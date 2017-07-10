@@ -6,7 +6,12 @@ permalink: /registration/
 
 Early registration is now open and will **close the 28 of July 2017**.
 
-Early registration fees are **60€ for regular** registrations and **30€ for students**.
+|         | Early | Late | At the event |
+|---------|-------|------|--------------|
+| Regular | €60   | €80  | €100         |
+| Student | €30   | €40  | €50          |
+|         |       |      |              |
+{: .fees-table}
 
 Depending on the payement method there may be additional costs (e.g. Eventzilla charges a fixed fee of 1.50€)
 
