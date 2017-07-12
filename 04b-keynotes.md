@@ -8,7 +8,8 @@ permalink: /keynotes/
 
 #### **Interspecies communication: a means of studying the cognitive and communicative abilities of Grey parrots**
 
-Abstract coming soon...
+Pepperberg has been studying the cognitive and communicative abilities of Grey parrots for over 40 years. She will briefly describe the history of research on avian abilities, the training techniques that she has used to establish two-way communication with parrots, and the highlights of her work with Alex that were possible because of this communication system. She will present data on her most recent research—on topics such as probabilistic learning and Piagetian tasks— that have been carried out with her current subjects, Griffin and Athena, showing how their intelligence compares with that of human children.
+
 
 #### Biography
 <img style="float:right; width: 200px; right; margin: 1em; overflow: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" src="{{ site.baseurl }}/assets/photo_irene_small.jpg">
