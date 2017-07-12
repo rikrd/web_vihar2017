@@ -95,3 +95,11 @@ $on-laptop:        800px;
 .fees-table tr:nth-child(even) {
   background-color: #f2f2f2
 }
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
