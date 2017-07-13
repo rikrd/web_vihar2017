@@ -8,8 +8,8 @@ The tentative programme for the two-day workshop is as follows:
 
 #### Friday 25th August 2017
 
-| 11:30|  **Welcome and opening remarks**
-| 12:00|  **Keynote - Irene Pepperberg**
+| 11:00|  **Welcome and opening remarks**
+| 11:20|  **Keynote - Irene Pepperberg <br/> Interspecies communication: a means of studying the cognitive and communicative abilities of Grey parrots**
 | 12:20|  Vocal communication between riders and horses <br/> *Åsa Abelin*
 | 12:40|  Phonetic Characteristics of Domestic Cat Vocalisations <br/> *Susanne Schötz, Joost van de Weijer and Robert Eklund*
 | 13:00|  **Lunch**
@@ -20,7 +20,7 @@ The tentative programme for the two-day workshop is as follows:
 | 16:00|  **Break**
 | 16:20|  Cognitive mechanisms underlying speech sound discrimination: a comparative study on humans and zebra finches <br/> *Merel Burgering, Carel ten Cate and Jean Vroomen*
 | 16:40|  Recording Vocal Interactivity among Turtles using AUVs <br/> *Nick Campbell and Angela Dassow*
-| 17:00|  **Keynote - Gabriel Skanze**
+| 17:00|  **Keynote - Gabriel Skanze <br/> Towards Real-time Coordination in Human-robot Interaction**
 | 18:00|  **End**
 | 19:30|  **Social Event**
 {: .programme-table}  
@@ -38,5 +38,8 @@ The tentative programme for the two-day workshop is as follows:
 | 12:30|  Sound Signal Processing Based on Seq2Tree Network <br/> *Weicheng Ma, Kai Cao, Zhaoheng Ni, Xiuyan Ni and Peter Chin*
 | 13:00|  **Lunch**
 | 14:00|  **Keynote - Véronique Aubergé**
+| 15:00|  **Panel discussion**
+| 15:30|  **Closing remarks & Finish**
+
 {: .programme-table}  
 
