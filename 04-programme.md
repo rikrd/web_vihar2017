@@ -40,6 +40,5 @@ The tentative programme for the two-day workshop is as follows:
 | 14:00|  **Keynote - Véronique Aubergé**
 | 15:00|  **Panel discussion**
 | 15:30|  **Closing remarks & Finish**
-
 {: .programme-table}  
 
