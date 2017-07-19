@@ -43,7 +43,18 @@ areas such as health care, education and entertainment.
 
 ### Arik Kershenbaum
 
-More details soon...
+#### **Animals, humans, computers, and aliens. Is there anything in common between all their languages?**
+It is often said that one of the greatest unsolved mysteries in biology is the evolution of human language. Somehow, our ancestors made a quantum leap from having no language (like all other animals), to having an infinitely complex communication medium - which no other species displays, even in part. But how can we be sure that animals have no language? What is the fundamental difference between non-human communication, and fully fledged linguistic ability? Is there some kind of "languageness" that can be quantified and measured? Some researchers claim that animal communication is nothing more than an instinctive execution of a set of neural commands. But then, at what point does autonomous computer communication become a language, rather than just a deterministic execution of commands? In the Search for Extra Terrestrial Intelligence, this question becomes crucial - would we recognise an alien language even if we heard it? Is it possible that there are languages so alien that we could never recognise them as such? In this talk, I will explore these ideas using examples from animal communication and human language (but without examples of alien language) and show how the statistical properties of these communication systems may - or may not - help distinguish language from nonsense.
+
+#### Biography
+<img style="float:right; width: 200px; right; margin: 1em; overflow: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" src="{{ site.baseurl }}/assets/photo_arik.jpeg">
+
+Arik Kershenbaum is the Herchel Smith research fellow in Zoology at the University of Cambridge, where he researches animal communication from both theoretical and empirical angles, combining field studies with wolves and dolphins, with computer simulations of cooperative behaviour. He received his BA in Natural Sciences from Cambridge, and PhD in behavioral ecology from the University of Haifa, before going on to be a research fellow at the National Institute for Mathematical and Biological Synthesis in the USA. He has also worked developing image processing and artificial intelligence systems for the Israeli aerospace industry.
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 <hr/>
 
