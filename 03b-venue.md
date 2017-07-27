@@ -20,7 +20,8 @@ The workshop will take place at:
 <iframe
   width="600"
   height="450"
-  frameborder="0" style="border:0"
+  frameborder="0"
+  style="margin: 1em; overflow: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyD9GFmw18ZrdCa4sUeO6rcVpx5Gw2vszhM
     &q=The+University+of+Skövde" allowfullscreen>
 </iframe>
