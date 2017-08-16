@@ -20,7 +20,7 @@ The tentative programme for the two-day workshop is as follows:
 | 16:00|  **Break**
 | 16:20|  Cognitive mechanisms underlying speech sound discrimination: a comparative study on humans and zebra finches <br/> *Merel Burgering, Carel ten Cate and Jean Vroomen*
 | 16:40|  Recording Vocal Interactivity among Turtles using AUVs <br/> *Nick Campbell and Angela Dassow*
-| 17:00|  **Keynote - Gabriel Skanze <br/> Towards Real-time Coordination in Human-robot Interaction**
+| 17:00|  **Keynote - Gabriel Skantze <br/> Towards Real-time Coordination in Human-robot Interaction**
 | 18:00|  **End**
 | 19:30|  **Social Event**
 {: .programme-table}  
