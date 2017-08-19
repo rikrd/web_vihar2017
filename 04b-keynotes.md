@@ -60,5 +60,14 @@ Arik Kershenbaum is the Herchel Smith research fellow in Zoology at the Universi
 
 ### Véronique Aubergé
 
-More details soon...
+#### **The socio-affective glue: how to manage with the empathic illusion of human for robot?**
+
+Is the social robot the result of the artificial intelligence production or of the natural intelligence perception of human?  One main phylogenetic feature of human is to continuously extend his body and environment competences, both cognitively and technologically. The “augmented self” paradigm has the age of human. Technologies to extend the social space of human, “to augment the others”, are very old dreams, that can be drawn by the history of speech synthesis premises. However it is only recently that the social robot becomes a societal desire, without any strong hypotheses able to explain how a smart object can become perceptively a subject. In this talk we will propose how some non verbal speech primitives, collected from human sciences explorations, can dynamically manipulate the human relation with the robot by building socio-affective glue, within ethical background challenges and risks. We will explore some ecological experimental methods implying societal people, industrial partners and researchers around the users, in order to co-construct together models, smart data and technologies in the constraints of responsible research and innovations.
+
+#### Biography
+
+<img style="float:right; width: 200px; right; margin: 1em; overflow: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" src="{{ site.baseurl }}/assets/photo_veronique.jpg">
+
+Véronique Aubergé is a CNRS researcher in human sciences at the LIG Lab (Computer Sciences Lab at Grenoble, France) where she heads the Domus Living Lab platform, and she is an associate Professor at the University of Grenoble-Alpes (UGA) where she directs I3L department. She heads the Chair Robo’Ethics at Grenoble National Polytechnics Institute. She has a PhD in Language Sciences and in Computer Sciences. She was a research engineer at the French Company OROS, and a researcher at ICP Lab and then at GIPSA Lab until 2012, where she developed cognitive models, experiments and applications in phonetics, prosody and expressive text-to speech synthesis. At LIG Lab, she focuses on social robotics as instruments to observe and to design models on the human interactional behaviors. She develops co-construction methods for experimenting in Living Lab some real life socio-damaged situations (elderly, children at hospital), for which the robot could be a transitory aid in ethical issues. In particular she is implied in the LIG robotic Social-Touch-RobAir platform developed within the LIG fablab, and in Emox (Awabot Inc) and Diya One (Partnering Robotics Inc.) robots.
+
 
