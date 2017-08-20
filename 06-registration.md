@@ -25,4 +25,4 @@ Please register to the VIHAR workshop via
      + BIC: FDDODEMMXXX
      + Subject: Your Full Name
 
-You will receive a confirmation as soon as we receive your registration. Registration is not refundable after the 20 August 2017.
+You will receive a confirmation as soon as we receive your registration. Registration is not refundable after the 20th of August 2017.
