@@ -10,7 +10,6 @@ The tentative programme for the two-day workshop is as follows:
 
 | 11:00|  **Welcome and opening remarks**
 | 11:20|  **Keynote - Irene Pepperberg <br/> Interspecies communication: a means of studying the cognitive and communicative abilities of Grey parrots**
-| 12:20|  [Vocal communication between riders and horses]({{ site.baseurl }}/assets/papers/VIHAR-2017_paper_11.pdf) <br/> *Åsa Abelin*
 | 12:40|  [Phonetic Characteristics of Domestic Cat Vocalisations]({{ site.baseurl }}/assets/papers/VIHAR-2017_paper_5.pdf) <br/> *Susanne Schötz, Joost van de Weijer and Robert Eklund*
 | 13:00|  **Lunch**
 | 14:00|  [Appropriate Voices for Artefacts: Some Key Insights]({{ site.baseurl }}/assets/papers/VIHAR-2017_paper_8.pdf) <br/> *Roger Moore*
