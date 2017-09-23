@@ -34,7 +34,6 @@ The tentative programme for the two-day workshop is as follows:
 | 11:10|  [Development of vocal cord mechanism for a robot capable of infant-like speech and reproducing the pitch of a babbling and a shout]({{ site.baseurl }}/assets/papers/VIHAR-2017_paper_7.pdf) <br/> *Tomoki Kojima, Nobutsuna Endo and Minoru Asada*
 | 11:30|  [Perceptual and acoustic correlates of spontaneous vs. social laughter]({{ site.baseurl }}/assets/papers/VIHAR-2017_paper_2.pdf) <br/> *Takaaki Shochi, Marine Guerry, Jean-Luc Rouas, Marie Chaumont, Toyoaki Nishida and Yoshimasa Ohmoto*
 | 12:00|  [Robot, Alien and Cartoon Voices: Implications for Speech-Enabled Systems]({{ site.baseurl }}/assets/papers/VIHAR-2017_paper_1.pdf) <br/> *Sarah Wilson and Roger Moore*
-| 12:30|  [Sound Signal Processing Based on Seq2Tree Network]({{ site.baseurl }}/assets/papers/VIHAR-2017_paper_15.pdf) <br/> *Weicheng Ma, Kai Cao, Zhaoheng Ni, Xiuyan Ni and Peter Chin*
 | 13:00|  **Lunch**
 | 14:00|  **Keynote - Véronique Aubergé <br/> The socio-affective glue: how to manage with the empathic illusion of human for robot?**
 | 15:00|  **Panel discussion**
